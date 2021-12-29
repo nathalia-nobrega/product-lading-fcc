@@ -1,0 +1,15 @@
+- o produto - relógio smart
+- nome - spotter
+
+--charcoal: #3e4c52ff;
+--pewter-blue: #7d96a1ff;
+--gainsboro: #d9d9d9ff;
+--charcoal-2: #1d4759ff;
+--teal-blue: #35748fff;
+
+
+-- sobre o produto
+-- o que ele tem de diferente
+-- preço
+-- por que comprar
+-- footer

@@ -1,2 +1,4 @@
-# product-lading-fcc
-Product landing page for FreeCodeCamp projects
+# Product lading webpage
+Product landing page for FreeCodeCamp projects. 
+
+**Used HTML5, CSS3 and Bootstrap**
